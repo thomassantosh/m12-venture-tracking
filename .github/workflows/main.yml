@@ -1,0 +1,24 @@
+name: Updated stock list
+  #on: [push]
+on:
+  schedule:
+    - cron: '30 17 * * 5'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.9
+    - name: Run incremental changes
+      run: python main.py
+    - name: Commit changes to main branch
+      run: |      
+        git config --global user.email "nonactive@gmail.com"
+        git config --global user.name "M12 Incremental"
+        now=$(date)
+        git add .
+        git commit -m "M12 product changes as of '$now'"
+        git push origin main
