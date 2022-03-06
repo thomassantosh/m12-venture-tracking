@@ -1,4 +1,4 @@
-name: Updated stock list
+name: Workflow for incremental update
   #on: [push]
 on:
   schedule:
