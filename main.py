@@ -1,3 +1,4 @@
+import os
 import re
 import json
 import subprocess
@@ -26,10 +27,30 @@ def retrieve_data():
     company_dict = {k: company_dict[k] for k in sorted(company_dict)}
     #logging.info(f'Company dictionary: {company_dict}')
 
-    ## Save to json file
-    #with open('company_list.json', 'w') as f:
-    #    f.write(json.dumps(company_dict))
     return company_dict
+
+def send_email(text=None):
+    """Send an email"""
+    sender=os.environ['SENDER']
+    receiver=os.environ['RECEIVER']
+    password=os.environ['PWORD']
+    smtp_server=os.environ['SERVER_DETAILS']
+    port = os.environ['PORT']
+
+    # Receiver, message contents
+    today_date = date.today()
+
+    message=MIMEMultipart('alternative', None, [MIMEText(text)])
+
+    message['Subject'] = 'M12 Company Changes for ' + str(today_date)
+    message['From'] = sender
+    message['To'] = receiver
+
+    # Message context
+    context=ssl.create_default_context()
+    with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
+        server.login(sender, password)
+        server.sendmail(sender, receiver, message.as_string())
 
 def compare_dictionaries(new_dict=None, source=None):
     """Compare the new pull and the old pull"""
@@ -52,17 +73,24 @@ def compare_dictionaries(new_dict=None, source=None):
             logging.info(f'Companies in baseline list no longer in M12 list:{original_list}')
         else:
             logging.info(f'No change in baseline list.')
-        logging.info(f'Companies in M12 list, new from baseline list:{list( set(new_dict_keys) - set(old_dict_keys) )}')
+        #logging.info(f'Companies in M12 list, new from baseline list:{list( set(new_dict_keys) - set(old_dict_keys) )}')
+        statement = f'Companies in M12 list, new from baseline list:{list( set(new_dict_keys) - set(old_dict_keys) )}')
+        logging.info(statement)
+        # Send mail with most recent edits
+        send_email(text=statement)
 
 
 def main():
     """Main operational function"""
+    # Load company dictionary
     company_dict = retrieve_data()
 
+    # Compare against new pull
     compare_dictionaries(
             new_dict=company_dict, 
             source='./company_list_nov21.json'
             )
+
 
 if __name__ == "__main__":
     main()

@@ -9,11 +9,17 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.9
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v2
       with:
         python-version: 3.9
     - name: Run incremental changes
       run: python main.py
+      env:
+        SENDER: ${{ secrets.SENDER }}
+        RECEIVER: ${{ secrets.RECEIVER }}
+        SERVER_DETAILS: ${{ secrets.SERVER_DETAILS }}
+        PWORD: ${{ secrets.PWORD }}
+        PORT: ${{ secrets.PORT }}
     - name: Commit changes to main branch
       run: |      
         git config --global user.email "nonactive@gmail.com"
