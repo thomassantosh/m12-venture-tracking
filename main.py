@@ -3,6 +3,10 @@ import re
 import json
 import subprocess
 import logging
+import smtplib, ssl
+from datetime import date
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 logging.basicConfig(level=logging.INFO,filename='history.log', format='%(asctime)s:%(levelname)s:%(message)s')
 
 def retrieve_data():
