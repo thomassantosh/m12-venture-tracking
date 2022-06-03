@@ -74,7 +74,7 @@ def compare_dictionaries(new_dict=None, source=None):
         else:
             logging.info(f'No change in baseline list.')
         #logging.info(f'Companies in M12 list, new from baseline list:{list( set(new_dict_keys) - set(old_dict_keys) )}')
-        statement = f'Companies in M12 list, new from baseline list:{list( set(new_dict_keys) - set(old_dict_keys) )}')
+        statement = f'Companies in M12 list, new from baseline list:{list( set(new_dict_keys) - set(old_dict_keys) )}'
         logging.info(statement)
         # Send mail with most recent edits
         send_email(text=statement)
