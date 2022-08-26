@@ -114,3 +114,7 @@
 2022-08-19 17:38:15,663:INFO:Change in dictionary.
 2022-08-19 17:38:15,663:INFO:No change in baseline list.
 2022-08-19 17:38:15,663:INFO:Companies in M12 list, new from baseline list:['Karlsgate', 'd-Matrix', 'SalesKen', 'Wallaroo', 'Kooply', 'MedMe', 'Code Ocean', 'Palm NFT Studio']
+2022-08-26 17:36:50,922:INFO:Total company list : 122
+2022-08-26 17:36:50,922:INFO:Change in dictionary.
+2022-08-26 17:36:50,923:INFO:No change in baseline list.
+2022-08-26 17:36:50,923:INFO:Companies in M12 list, new from baseline list:['Wallaroo', 'Palm NFT Studio', 'SalesKen', 'Code Ocean', 'Kooply', 'Karlsgate', 'Inworld', 'MedMe', 'd-Matrix']
