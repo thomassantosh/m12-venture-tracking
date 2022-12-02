@@ -170,3 +170,7 @@
 2022-11-25 17:33:01,345:INFO:Change in dictionary.
 2022-11-25 17:33:01,345:INFO:Companies in baseline list no longer in M12 list:['Tact']
 2022-11-25 17:33:01,345:INFO:Companies in M12 list, new from baseline list:['Code Ocean', 'OX Security', 'Kooply', 'Wallaroo', 'd-Matrix', 'Karlsgate', 'Space and Time', 'Tact.ai', 'SalesKen', 'Theom', 'MedMe', 'Inworld', 'modl.ai', 'Insite AI', 'Palm NFT Studio']
+2022-12-02 17:32:45,221:INFO:Total company list : 127
+2022-12-02 17:32:45,221:INFO:Change in dictionary.
+2022-12-02 17:32:45,222:INFO:Companies in baseline list no longer in M12 list:['Tact']
+2022-12-02 17:32:45,222:INFO:Companies in M12 list, new from baseline list:['Palm NFT Studio', 'Code Ocean', 'OX Security', 'Insite AI', 'SalesKen', 'd-Matrix', 'Theom', 'Wallaroo', 'Tact.ai', 'Space and Time', 'Kooply', 'MedMe', 'modl.ai', 'Karlsgate', 'Inworld']
