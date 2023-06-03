@@ -13,7 +13,7 @@ def retrieve_data():
     """Retrieve new data"""
 
     # Retrieve current data through subprocess
-    output = str(subprocess.run(['curl','-k','https://m12.vc/portfolio'],\
+    output = str(subprocess.run(['curl','-k','https://m12.vc/portfolio/'],\
             check=True, stdout=subprocess.PIPE,universal_newlines=True))
 
     # Parse out the company names, and descriptions
