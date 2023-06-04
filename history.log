@@ -282,3 +282,15 @@
 2023-06-03 17:52:14,987:INFO:Change in dictionary.
 2023-06-03 17:52:14,987:INFO:Companies in baseline list no longer in M12 list:['Private AI', 'SpyCloud', 'Onfido', 'Comfy', 'SuperAwesome', 'GroundTruth', 'Contrast Security', 'WhiteSource', 'Cooler Screens', 'Hunters', 'Outreach', 'Split', 'Evisort', 'FarEye', 'LoginRadius', 'Dynamic Signal', 'i3 Equity Partners', 'Zipwhip', 'env0', 'Innovaccer', 'Livongo', 'Evinced', 'Syntiant', 'Team8', 'Codefresh', 'Huue', 'Rescale', 'GrowthSpace', 'RapidSOS', 'Deployed', 'Markforged', 'Acerta', 'Directly', 'Figure Eight', 'Xsight Labs', 'Vertical Aerospace', 'Unbabel', 'Bonsai', 'iLoF', 'Pickit', 'Regrow', 'Bakkt', 'Skedulo', 'Volterra', 'ecomedes', 'CloudSimple', 'blackshark.ai', 'GO1', 'Zencity', 'NextBillion.ai', 'Pod Foods', 'Twenty Billion Neurons', 'Comtravo', 'PandaDoc', 'WorkSpan', 'Paxata', 'Scuba', 'Memgraph', 'ClearMotion', 'LottieFiles', 'Pachyderm', 'Authomize', 'Venture Out', 'Definely', 'Voicea', 'PsiQuantum', 'inVia Robotics', 'CognitiveScale', 'Tact', 'FortressIQ', 'RapidAPI', 'Arkose Labs', '1910 Genetics', 'Illusive Networks', 'Element AI', 'nsKnox', 'WorkBoard', 'Helpshift', 'Loggi', 'Beamery', 'Artificial', 'Webiny', 'Unravel', 'Mental Canvas', 'CNEXLabs', 'Trusona', 'Agolo', 'AirMap', 'Incorta', 'Nanofabrica', 'Netradyne', 'Frame', 'Make.TV', 'Prevedere', 'Voiceitt', 'Aqua', 'At-Bay', 'Wandelbots', 'Nautilus Labs', 'Voodle', 'Databook', 'Hazy', 'HYAS', 'Truepic', 'Envisagenics', 'Webee', 'BlueVine', 'Synack', 'Kahoot!', 'Applied Intuition', 'Parabol', 'Andor Health', 'Airobotics']
 2023-06-03 17:52:14,987:INFO:Companies in M12 list, new from baseline list:[]
+2023-06-03 14:11:17,438:INFO:Total company list : 0
+2023-06-03 14:12:28,442:INFO:Total company list : 0
+2023-06-03 14:19:53,482:INFO:No values returned for name or desc lists.
+2023-06-03 14:50:10,283:INFO:No values returned for name or desc lists.
+2023-06-03 15:00:57,122:INFO:No values returned for name or desc lists.
+2023-06-03 15:09:18,442:INFO:No values returned for name or desc lists.
+2023-06-03 15:09:26,195:INFO:No values returned for name or desc lists.
+2023-06-03 18:21:16,928:INFO:Total company list : 135
+2023-06-03 18:23:06,418:INFO:Total company list : 135
+2023-06-03 18:23:06,430:INFO:Change in dictionary.
+2023-06-03 18:23:06,431:INFO:Companies in baseline list no longer in M12 list:['Tact', 'WhiteSource', 'Webee', 'RapidAPI', 'Zipwhip']
+2023-06-03 18:23:06,431:INFO:Companies in M12 list, new from baseline list:['Insite AI', 'Theom', 'Karlsgate', 'ZipWhip', 'Code Ocean', 'OX Security', 'modl.ai', 'NobleAI', 'Mend', 'Kooply', 'Wallaroo', 'Valence Security', 'MedMe', 'Rapid', 'Typeface', 'Novu', 'SalesKen', 'd-Matrix', 'Ozette Technologies', 'Weebee', 'Metrika', 'CodeSee', 'Space and Time', 'Palm NFT Studio', 'Fordefi', 'Tact.ai', 'Inworld']
