@@ -1,9 +1,9 @@
 name: Workflow for incremental update
-on: [push]
-# on:
-  # workflow_dispatch:
-  # schedule:
-   # - cron: '30 17 * * 5'
+on:
+  push:
+  workflow_dispatch:
+    schedule:
+     - cron: '30 17 * * 5'
 jobs:
   build:
     runs-on: ubuntu-latest
