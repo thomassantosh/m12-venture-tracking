@@ -294,3 +294,7 @@
 2023-06-03 18:23:06,430:INFO:Change in dictionary.
 2023-06-03 18:23:06,431:INFO:Companies in baseline list no longer in M12 list:['Tact', 'WhiteSource', 'Webee', 'RapidAPI', 'Zipwhip']
 2023-06-03 18:23:06,431:INFO:Companies in M12 list, new from baseline list:['Insite AI', 'Theom', 'Karlsgate', 'ZipWhip', 'Code Ocean', 'OX Security', 'modl.ai', 'NobleAI', 'Mend', 'Kooply', 'Wallaroo', 'Valence Security', 'MedMe', 'Rapid', 'Typeface', 'Novu', 'SalesKen', 'd-Matrix', 'Ozette Technologies', 'Weebee', 'Metrika', 'CodeSee', 'Space and Time', 'Palm NFT Studio', 'Fordefi', 'Tact.ai', 'Inworld']
+2023-06-04 01:24:17,004:INFO:Total company list : 135
+2023-06-04 01:24:17,004:INFO:Change in dictionary.
+2023-06-04 01:24:17,004:INFO:Companies in baseline list no longer in M12 list:['Webee', 'WhiteSource', 'Zipwhip', 'Tact', 'RapidAPI']
+2023-06-04 01:24:17,004:INFO:Companies in M12 list, new from baseline list:['SalesKen', 'Mend', 'Kooply', 'Theom', 'Valence Security', 'ZipWhip', 'Weebee', 'Karlsgate', 'Ozette Technologies', 'Tact.ai', 'CodeSee', 'NobleAI', 'Wallaroo', 'Code Ocean', 'Fordefi', 'Space and Time', 'Novu', 'Insite AI', 'Typeface', 'Rapid', 'Inworld', 'MedMe', 'd-Matrix', 'Metrika', 'Palm NFT Studio', 'modl.ai', 'OX Security']
