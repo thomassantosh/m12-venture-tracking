@@ -11,6 +11,14 @@ from email.mime.multipart import MIMEMultipart
 logging.basicConfig(level=logging.INFO,filename='history.log', format='%(asctime)s:%(levelname)s:%(message)s')
 
 
+def write_out_company(source='company_list.txt', company_dict=None):
+    """Write out company list"""
+    with open(source, 'w') as cl:
+        for k, v in company_dict.items():
+            cl.write(f"{k}, {v}")
+            cl.write('\n')
+
+            
 def retrieve_data():
     """Retrieve new data"""
 
@@ -46,6 +54,8 @@ def retrieve_data():
             company_dict = dict(zip(name_list, desc_list))
             company_dict = {k: company_dict[k] for k in sorted(company_dict)}
             # logging.info(f'Company dictionary: {company_dict}')
+            if company_dict:
+                write_out_company(company_dict = company_dict)
             return company_dict
     else:
         return None
