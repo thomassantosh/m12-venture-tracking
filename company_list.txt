@@ -1,135 +1,135 @@
-1910 Genetics, latform
+1910 Genetics, Computational drug discovery platform
 Acerta, Automotive intelligence to detect malfunctions
-Agolo, latform
+Agolo, Multi-document Natural Language Summarization platform
 AirMap, Air traffic control for drones
 Airobotics, Automated industrial drones
 Andor Health, Healthcare IT workflow and clinical collaboration
-Applied Intuition, latform, including simulation
-Aqua, lay cloud native security
+Applied Intuition, Autonomy algorithm development and testing platform, including simulation
+Aqua, Pure-play cloud native security
 Arkose Labs, Friction against automated and coordinated attacks
-Artificial, latform
+Artificial, Human-in-the-loop lab automation platform
 At-Bay, Insurance for the Digital Age
 Authomize, Automated authorization governance and management
 Bakkt, Regulated digital asset conversion
-Beamery, loyee journey management
+Beamery, Recruitment automation and employee journey management
 BlueVine, Bank services and funding solutions for small and medium businesses
 Bonsai, Reinforcement learning to train autonomous systems
-CNEXLabs, erformance semiconductors
-ClearMotion, ension system for vehicles
+CNEXLabs, High-performance semiconductors
+ClearMotion, Software-controlled, fully-active electrohydraulic suspension system for vehicles
 CloudSimple, Dedicated environments to run VMware workloads in the cloud
-Code Ocean, lace.
+Code Ocean, Creation of computational science, organized and shared in one place.
 CodeSee, CodeSee is a dev tool that visualizes and automates your codebase
-Codefresh, lications and Kubernetes
+Codefresh, CI/CD for cloud-native applications and Kubernetes
 CognitiveScale, Trust-as-a-service for AI systems
-Comfy, ace management
-Comtravo, le
-Contrast Security, latform
-Cooler Screens, oint-of-sale media
-Databook, rise customer intelligence for GTM teams
+Comfy, Workplace experience app for physical space management
+Comtravo, Business travel made simple
+Contrast Security, Application security testing platform
+Cooler Screens, IoT-enabled cooler screens for point-of-sale media
+Databook, Enterprise customer intelligence for GTM teams
 Definely, Tool for drafting, reviewing, and understanding legal documents
 Deployed, Statement of Work guidance
-Directly, ort and virtual agents
-Dynamic Signal, loyee communication and advocacy
-Element AI, rise
-Envisagenics, latform
-Evinced, ment
-Evisort, owered contract lifecycle management tools
-FarEye, redictabilty
+Directly, Crowd-powered customer support and virtual agents
+Dynamic Signal, Multi-channel employee communication and advocacy
+Element AI, AI-based IT services for the enterprise
+Envisagenics, RNA therapeutics drug development and licensing platform
+Evinced, Digital accessibility automation for modern software development
+Evisort, AI-powered contract lifecycle management tools
+FarEye, Real-time supply chain tracking and logistics predictabilty
 Figure Eight, Data enrichment, data mining, and task automation for ML algorithms
-Fordefi, latform built for DeFi
+Fordefi, Institutional MPC wallet and security platform built for DeFi
 FortressIQ, Process discovery for RPA
-Frame, lication delivery
+Frame, Cloud-based desktop virtualization and application delivery
 GO1, World&#039;s largest curated eLearning library
 GroundTruth, Location-based mobile alerts to customers
-GrowthSpace, ment at scale
+GrowthSpace, Digital training and personalized talent development at scale
 HYAS, Pre-attack cyber intelligence and defense
 Hazy, Synthetic data to enable cross-boundary analytics
 Helpshift, Multi-channel customer service in one message thread
-Hunters, roactively identified threats across the environment
+Hunters, Extended Detection and Response (XDR) platform that proactively identified threats across the environment
 Huue, Sustainable garment dyes
-Illusive Networks, revent lateral account movement
+Illusive Networks, Network security platform that uses deception to prevent lateral account movement
 Incorta, Unstructured, full-fidelity data analysis in real-time
-Innovaccer, atient records
-Insite AI, roducts in stores
-Inworld, owered virtual characters
-Kahoot!, orate
-Karlsgate, latform allowing anonymized data interconnection
-Kooply, latform
-Livongo, le with chronic conditions
+Innovaccer, Healthcare data platform enabling unified patient records
+Insite AI, AI recommendations on how to price, distribute and promote products in stores
+Inworld, AI-powered virtual characters
+Kahoot!, Gamified learning for school, home, and corporate
+Karlsgate, Technology platform allowing anonymized data interconnection
+Kooply, Building a mobile-first gaming platform
+Livongo, Consumer-centered virtual care for people with chronic conditions
 Loggi, B2B on-demand logistics in Brazil
 LoginRadius, Customer identity and access management
 LottieFiles, Platform to create and collaborate on interactive design assets
 Make.TV, Live video streaming technology
-Markforged, arts
+Markforged, Metal and carbon fiber 3D printers for functional parts
 MedMe, Virtual care and clinical services technology
-Memgraph, latform
-Mend, liance management
-Mental Canvas, hical design between 2D and 3D
-Metrika, latform for blockchain networks
-Nanofabrica, rinting)
+Memgraph, Streaming graph application platform
+Mend, Open source security and compliance management
+Mental Canvas, Graphical design between 2D and 3D
+Metrika, Monitoring and analytics platform for blockchain networks
+Nanofabrica, Nano-scale additive manufacturing (3D printing)
 Nautilus Labs, Maritime fleet efficiency management
-Netradyne,  learning at the edge
-NextBillion.ai, ing toolkit
-NobleAI, ;D with 10x lower cost
-Novu, en-source notifications infrastructure
-OX Security, ly chain security
-Onfido, owered identity and identity document verification
+Netradyne, Fleet driving safety analytics with computer vision and deep learning at the edge
+NextBillion.ai, Geospatial data platform and enterprise mapping toolkit
+NobleAI, AI software that helps enterprises do R&amp;D with 10x lower cost
+Novu, The first open-source notifications infrastructure
+OX Security, End-to-end software supply chain security
+Onfido, ML-powered identity and identity document verification
 Outreach, Sales automation that measures what&#039;s working
-Ozette Technologies, latform
+Ozette Technologies, Artificial intelligence-enabled immune monitoring platform
 Pachyderm, Version-controlled data science
-Palm NFT Studio, rojects
-PandaDoc, latform for the end-to-end sales cycle
+Palm NFT Studio, One-stop shop for creators and brands to power their NFT projects
+PandaDoc, Document automation platform for the end-to-end sales cycle
 Parabol, Inclusive meeting tools for distributed, Agile teams
-Paxata, aration for AI and ML models
-Pickit, roducts
+Paxata, Self-service data preparation for AI and ML models
+Pickit, Digital asset management in Microsoft Office products
 Pod Foods, Distribution for emerging food brands
 Prevedere, Predictive analytics of future business outcomes
-Private AI, rocessing tools
-PsiQuantum, hotonics
-Rapid, latform
-RapidSOS, onse
-Regrow, latform
-Rescale, uting in the cloud
+Private AI, Privacy-preserving ML and natural language processing tools
+PsiQuantum, Fault tolerant digital quantum computing with silicon photonics
+Rapid, Next-generation API platform
+RapidSOS, Protecting families and communities with data-driven emergency response
+Regrow, Agronomic measurement and analytics platform
+Rescale, High-performance computing in the cloud
 SalesKen, In-call intelligence AI for inside sales teams
-Scuba, erience management across business silos
+Scuba, Unified customer experience management across business silos
 Skedulo, Mobile workforce management
-Space and Time, rocessing
-Split, latform
-SpyCloud, revention with the world’s largest database of breached credentials
-SuperAwesome, latform to enable safe engagement with the global kids audience
-Synack, entesting as a service
-Syntiant, ower AI inference silicon for IoT
+Space and Time, Decentralized solution for fast and secure data processing
+Split, Software feature management and A/B testing platform
+SpyCloud, Account takeover prevention with the world’s largest database of breached credentials
+SuperAwesome, Digital media platform to enable safe engagement with the global kids audience
+Synack, On-demand and recurring pentesting as a service
+Syntiant, Ultra low power AI inference silicon for IoT
 Tact.ai, Field team CRM solution for data-informed customer engagement`
-Team8,  and cybersecurity hub
+Team8, Company-building venture group and cybersecurity hub
 Theom, Security to safeguard data in the cloud
 Truepic, Provenance-based media authentication
-Trusona, roofing
-Twenty Billion Neurons,  learning
-Typeface, ersonalized content creation for work
-Unbabel, ort
-Unravel, erformance management for big data systems
+Trusona, Passwordless authentication and identity proofing
+Twenty Billion Neurons, Interactive AI powered by video understanding using deep learning
+Typeface, Generative AI app to supercharge personalized content creation for work
+Unbabel, AI translation for customer support
+Unravel, Application performance management for big data systems
 Valence Security, Collaboratively remediate your SaaS security risks
-Venture Out, reneurs
+Venture Out, After-hours accelerator for future entrepreneurs
 Vertical Aerospace, Zero carbon eVTOL aircraft
-Voicea, roductive meetings
-Voiceitt, eech
-Volterra,  delivery
-Voodle, lace
-Wallaroo, roduction at scale
-Wandelbots, ment
-Webiny, ment framework and CMS
+Voicea, Voice-activated AI for more productive meetings
+Voiceitt, Speech recognition for non-standard speech
+Volterra, Distributed cloud platform for faster app delivery
+Voodle, Short video communications for the workplace
+Wallaroo, Platform to manage ML in production at scale
+Wandelbots, No code/low code industrial robot programming and skill development
+Webiny, Open source serverless development framework and CMS
 Weebee, No-code industrial IoT toolset
 WorkBoard, OKR software for leading organizations.
-WorkSpan,  business management
+WorkSpan, Ecosystem for partnership business management
 Xsight Labs, Fabless semiconductor networking solutions
 Zencity, Data-driven decision making for local government
 ZipWhip, Business text messaging for consumer engagement
-blackshark.ai, lanet
-d-Matrix, latform for inference acceleration in the datacenter
-ecomedes, rojects
+blackshark.ai, Digital 3D map of the infrastructure of the entire planet
+d-Matrix, AI Compute platform for inference acceleration in the datacenter
+ecomedes, Eco-conscious purchasing platform for building projects
 env0, Self-service cloud environments using infrastructure as code
 i3 Equity Partners, IoT incubator and early-stage investor
-iLoF, recision medicine
+iLoF, Photonics-based screening and stratification tools for personalized precision medicine
 inVia Robotics, Warehouse automation and Robotics-as-a-Service
-modl.ai, ment
-nsKnox, revention by collaborative cybersecurity
+modl.ai, AI Engine for game development
+nsKnox, Corporate payment fraud prevention by collaborative cybersecurity
