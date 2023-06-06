@@ -41,7 +41,7 @@ def retrieve_data():
         desc_list = re.findall(desc_reg, output)
 
         # In the desc_list, get all the descriptions after <p>
-        desc_list = [re.search(r"[^<p>]*$", x).group(0) for x in desc_list]
+        desc_list = [re.search(r"<p>(.*$)", x).group(0)[3:] for x in desc_list]
 
         if len(name_list) == 0 or len(desc_list) == 0:
             logging.info('No values returned for name or desc lists.')
